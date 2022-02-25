@@ -18,5 +18,11 @@ public class MainActivity extends AppCompatActivity {
         // alteracao github
 
         // correcao do bug
+
+        //login
+
+        //registar
+
+        //reset password
     }
 }

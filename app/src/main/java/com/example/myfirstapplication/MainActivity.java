@@ -20,5 +20,7 @@ public class MainActivity extends AppCompatActivity {
         //login
 
         //registar
+
+        //reset password
     }
 }
